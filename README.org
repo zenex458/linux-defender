@@ -3,3 +3,13 @@
 * What is it?
 This intends to be an anti-virus for Linux. It aims to be good at runtime, like windows defender, but not proprietary and respects the user.
 
+* Why?
+
+* Installation
+
+* Getting Started
+
+* Building
+
+* Configuration
+
