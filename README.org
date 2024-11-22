@@ -3,8 +3,3 @@
 * What is it?
 This intends to be an anti-virus for Linux. It aims to be good at runtime, like windows defender, but not proprietary and respects the user.
 
-* Useful
-- https://arxiv.org/abs/2411.11017
-- https://www.bleepingcomputer.com/news/security/chinese-gelsemium-hackers-use-new-wolfsbane-linux-malware/
-- GUI toolkit
-  - https://github.com/iced-rs/iced
