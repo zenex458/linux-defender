@@ -13,3 +13,5 @@ This intends to be an anti-virus for Linux. It aims to be good at runtime, like 
 
 * Configuration
 
+* Contributing
+See the [wiki](https://github.com/zenex458/linux-defender/wiki).
